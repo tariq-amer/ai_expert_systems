@@ -26,4 +26,4 @@ This project presents a historical perspective on Artificial Intelligence and Ex
 - GitHub Pages
 
 ## 📬 Author
-Your Name
+Tariq Amer
