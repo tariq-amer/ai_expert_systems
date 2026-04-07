@@ -3,7 +3,7 @@
 📖 A digital version of the 1994 article by Fadel Fadda.
 
 ## 🌐 Live Website
-👉 https://yourusername.github.io/ai-expert-systems/
+👉 https://tariq-amer.github.io/ai-expert-systems/
 
 ## 📄 About
 This project presents a historical perspective on Artificial Intelligence and Expert Systems, including:
